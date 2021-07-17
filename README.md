@@ -1,2 +1,2 @@
 # fix-test-trade
-A test application to FIX programming
+A test application for FIX programming
